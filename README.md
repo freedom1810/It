@@ -1,6 +1,6 @@
 # It
 ## [Data Structures and Algorithms - University of California San Diego](https://www.coursera.org/specializations/data-structures-algorithms?)
-- [Course 1: Algorithmic Toolbox](facebook.com)
+- [Course 1: Algorithmic Toolbox](https://fb.com)
 - Course 2:  Data Structures
 - Course 3:  Algorithms on Graphs
 - Course 4:  Algorithms on Strings
